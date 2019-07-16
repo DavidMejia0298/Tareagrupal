@@ -39,7 +39,7 @@
                 <fileset dir="${build.classes.dir}"/>
             </obfuscate>
         </target>
-
+    git commit -am "Tarea en grupo de POO"
     For list of available properties check the imported 
     nbproject/build-impl.xml file. 
 
