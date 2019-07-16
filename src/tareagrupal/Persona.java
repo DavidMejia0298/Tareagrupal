@@ -18,6 +18,7 @@ public abstract class Persona {
             
     public Persona(){
     }
+    
     public void establecernombre(String nombre){
         this.Nombre = nombre;
     }
